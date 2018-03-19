@@ -1,5 +1,7 @@
 #playground
 /playground
+#configfile
+server/config/config.json
 
 #jetbrains
 .idea
